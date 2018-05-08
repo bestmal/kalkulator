@@ -1,5 +1,4 @@
-print('hello world')
-print ('to jest kalkulator sumowania')
+print ('to jest kalkulator sumowania i odejmowania')
 
 
 def sumuj(liczba1, liczba2):
